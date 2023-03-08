@@ -1,0 +1,14 @@
+{
+    "name": "leguan/text",
+    "autoload": {
+        "psr-4": {
+            "Leguan\\Text\\": "xinxi/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lijie"
+        }
+    ],
+    "require": {}
+}
