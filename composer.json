@@ -1,5 +1,8 @@
 {
     "name": "leguan/text",
+    "description": "the new leguan pro",
+    "keywords": ["leguan"],
+    "license": "Apache-2.0",
     "autoload": {
         "psr-4": {
             "Leguan\\Text\\": "xinxi/"
@@ -10,5 +13,7 @@
             "name": "lijie"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">7.0"
+    }
 }
