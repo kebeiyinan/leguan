@@ -1,7 +1,8 @@
 <?php
 
 require __DIR__ . '/vendor/autoload.php';
-use Leguan\Text\Foo;
+use app\index\controller\Index;
 
-$obj = new Foo();
-$obj->mydo();
+$obj = new Index();
+
+$obj->index();
